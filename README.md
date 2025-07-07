@@ -1,0 +1,2 @@
+# synkrone
+ai resume analyser
